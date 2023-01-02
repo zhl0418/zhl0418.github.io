@@ -260,7 +260,7 @@ h4 {
   position: absolute;
   top: 50px;
   left: -20px;
-  background-image: url(/img/home/html5.svg);
+  background-image: url(/img/home/ISO_C++_Logo.svg);
   background-repeat: no-repeat;
   width: 60px;
   height: 60px;
@@ -273,7 +273,7 @@ h4 {
   position: absolute;
   bottom: -20px;
   right: 32%;
-  background-image: url(/img/home/javascript.svg);
+  background-image: url(/img/home/git.svg);
   background-size: 60px;
   background-repeat: no-repeat;
   width: 90px;
@@ -288,7 +288,7 @@ h4 {
   right: -30px;
   width: 60px;
   height: 60px;
-  background-image: url(/img/home/css3.svg);
+  background-image: url(/img/home/CM.jpg);
   background-repeat: no-repeat;
 }
 
